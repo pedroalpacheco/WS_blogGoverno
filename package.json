@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/pedroalpacheco/WS_blogGoverno/issues"
   },
-  "homepage": "https://github.com/pedroalpacheco/WS_blogGoverno#readme"
+  "homepage": "https://github.com/pedroalpacheco/WS_blogGoverno#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
 }
