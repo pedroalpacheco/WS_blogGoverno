@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/pedroalpacheco/WS_blogGoverno#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "mogoose": "0.0.1-security",
     "mongoose": "^5.10.0",
