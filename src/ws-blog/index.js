@@ -1,7 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const urlpai = 'https://www.gov.br/pt-br/noticias/ultimas-noticias?b_start:int=0';
+const urlpai = 'https://www.gov.br/pt-br/noticias';
 
 function extraidados(link) {
     axios.get(link)
